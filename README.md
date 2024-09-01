@@ -1,4 +1,4 @@
-# Financial-Dashboard
+# Financial-Dashboard (Profit Analysis)
 This financial dashboard provides insights into the company's sales and profitability, highlighting performance across different metrics.
 ## Project Goal
 The goal of this Power BI dashboard is to analyze the company’s financial performance using a sample dataset provided in Microsoft Power BI. It aims to create a visually appealing dashboard that offers an overview of the company's profitability, enabling stakeholders to make informed business decisions.
