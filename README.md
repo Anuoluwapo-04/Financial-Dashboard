@@ -21,6 +21,7 @@ Some of the KPI's and DAX used includes:
 - Net Sales = [Gross sales]-[Total Discount]
 
 ## Data Visualization
+[Financial Dashboard](https://github.com/Anuoluwapo-04/Financial-Dashboard)
 
 ![image](https://github.com/user-attachments/assets/477198c6-8c7a-4c72-b5d5-19ff651a411d)
 
